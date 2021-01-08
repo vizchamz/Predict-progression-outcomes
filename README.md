@@ -1,4 +1,4 @@
-# Python-program-for-predict-progression-outcomes-at-the-end-of-each-academic-year-of-a-University
+# Predict-progression-outcomes
 Python program for predict progression outcomes at the end of each academic year of a University.
 1. Student Version
 2. Student Version (Validation)
